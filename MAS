@@ -1,0 +1,5 @@
+{
+  "shortener_api_base": "https://vplink.in/api",
+  "shortener_token": "43a55c32d43c09baae75cf3b3ccec1a2f0ee0b4e",
+  "alias_type": "random" 
+}
